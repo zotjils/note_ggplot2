@@ -1,7 +1,3 @@
-# 必要なライブラリの読み込み
-library(tidyverse)
-library(ggpmisc)
-
 # データの読み込み
 data_bou <- read_csv(file = "data_bou.csv")
 
