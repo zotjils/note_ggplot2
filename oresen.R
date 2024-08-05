@@ -1,6 +1,3 @@
-# 必要なライブラリの読み込み
-library(tidyverse)
-
 # データの読み込み
 data_oresen <- read_csv(file = "data_oresen.csv")
 
