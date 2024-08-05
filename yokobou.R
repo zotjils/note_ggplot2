@@ -1,7 +1,3 @@
-# 必要なライブラリの読み込み
-library(tidyverse)
-library(scales)
-
 # データの読み込み
 data <- read_csv(file = "data_yokobou.csv")
 
